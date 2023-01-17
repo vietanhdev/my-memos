@@ -1,4 +1,10 @@
-# My Memos - Personal setup of Memos for engineering
+# My Memos - Personal setup of Memos for engineering notes
+
+Memos is "an open-source, self-hosted memo hub with knowledge management and socialization". I met some difficulties in setting up Memos with HTTPs on Cloudflare (with .dev domain on custom port). Therefore, I am noting these resources for using later. You can also use them for your setup.
+
+**Notes:** Update `memos.vietanh.dev` to your domain and `2096` to your app port.
+
+**Live demo:** <https://demo.usememos.com/>.
 
 ## Setup HTTPS (on custom port)
 
